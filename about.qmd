@@ -34,7 +34,7 @@ University, implementing and supporting Unix and Linux systems, e-mail,
 web and related technologies.
 
 Interests include stable isotope analysis, zooarchaeology, British prehistory,
-archaeological theory, data analysis and visualisation.
+archaeological theory, data analysis and visualisation, statistics, (Q)GIS, R, Python and Ruby programming.
 
 ## Education and qualifications
 University of Nottingham |
