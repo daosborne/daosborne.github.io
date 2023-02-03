@@ -1,0 +1,57 @@
+---
+title: "About"
+about:
+  template: trestles
+  image: IMG_6975.png
+  links:
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0002-4283-0665
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/DA_Osborne
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.scot/@daosborne
+    - icon: github
+      text: Github
+      href: https://github.com/daosborne/
+    - text: PhD student profile
+      href: https://www.midlands4cities.ac.uk/student_profile/david-osborne/
+---
+
+## Bio
+David Osborne is currently a PhD researcher in archaeology in the
+Department of Classics & Archaeology at the University of Nottingham,
+funded by [AHRC](https://www.ukri.org/councils/ahrc/) via the
+[Midlands4Cities](https://www.midlands4cities.ac.uk/) Doctoral Training Partnership.
+He was previously employed as a Senior Systems Development Officer at the
+University, implementing and supporting Unix and Linux systems, e-mail,
+web and related technologies.
+
+Interests include stable isotope analysis, zooarchaeology, British prehistory,
+archaeological theory, data analysis and visualisation.
+
+## Education and qualifications
+University of Nottingham |
+PhD researcher in Department of Classics & Archaeology | Sept 2017 to date
+
+University of Nottingham |
+MSc in Archaeological Research (with distinction) | Sept 2011 -- June 2013
+
+University of Nottingham |
+BA (Joint honours) in Archaeology and Geography | 1974 -- 1977
+
+## Most recent employment
+Freelance | IT consultant on project implementing
+[Historic Environment Record database system for Jersey Heritage](https://her.jerseyheritage.org)
+based on [Arches](https://www.archesproject.org) |
+Jersey, Channel Islands, 2017 -- 2020
+
+University of Nottingham | Senior Systems Development Officer, 1984 -- 2018
+
+## Membership of professional associations
+- [Prehistoric Society](https://www.prehistoricsociety.org/)
+- [Association for Environmental Archaeology](https://envarch.net/)
+- [European Association of Archaeologists](https://www.e-a-a.org/)
+- [Society of Antiquaries of Newcastle upon Tyne](https://www.newcastle-antiquaries.org.uk/)
