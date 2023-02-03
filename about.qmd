@@ -4,6 +4,9 @@ about:
   template: trestles
   image: IMG_6975.png
   links:
+    - icon: book
+      text: PhD student profile
+      href: https://www.midlands4cities.ac.uk/student_profile/david-osborne/
     - icon: orcid
       text: ORCiD
       href: https://orcid.org/0000-0002-4283-0665
@@ -16,14 +19,15 @@ about:
     - icon: github
       text: Github
       href: https://github.com/daosborne/
-    - text: PhD student profile
-      href: https://www.midlands4cities.ac.uk/student_profile/david-osborne/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daosborne/
 ---
 
 ## Bio
-David Osborne is currently a PhD researcher in archaeology in the
-Department of Classics & Archaeology at the University of Nottingham,
-funded by [AHRC](https://www.ukri.org/councils/ahrc/) via the
+David is currently a PhD researcher in archaeology in the
+[Department of Classics & Archaeology](https://www.nottingham.ac.uk/humanities/departments/classics-and-archaeology/)
+at the University of Nottingham, funded by [AHRC](https://www.ukri.org/councils/ahrc/) via the
 [Midlands4Cities](https://www.midlands4cities.ac.uk/) Doctoral Training Partnership.
 He was previously employed as a Senior Systems Development Officer at the
 University, implementing and supporting Unix and Linux systems, e-mail,
