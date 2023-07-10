@@ -5,3 +5,4 @@
 .nojekyll
 
 /.quarto/
+.DS_Store
