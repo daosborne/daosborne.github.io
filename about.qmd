@@ -10,8 +10,11 @@ about:
     - icon: orcid
       text: ORCiD
       href: https://orcid.org/0000-0002-4283-0665
+    - icon: sun
+      text: Bluesky
+      href: https://bsky.app/profile/daosborne.bsky.social
     - icon: twitter
-      text: Twitter
+      text: Twitter (X)
       href: https://twitter.com/DA_Osborne
     - icon: mastodon
       text: Mastodon
