@@ -6,7 +6,7 @@ title: "Research"
 
 ## Abstract
 
-My PhD research explored residential mobility and settlement from the Middle Neolithic (c. 3000 BCE) to the Middle Bronze Age (c. 1500 BCE), focusing on the Bronze Age in Lincolnshire and the Fens. It sought to establish whether there was a change in the mobility of people and their domesticated animals and if so, whether this related to the lack of evidence for permanent settlement during the Middle and Late Neolithic (Whittle 1997) and the establishment of small farming settlements by the time of the Middle Bronze Age (Brück 1999). Taking a posthumanist, non-anthropocentric viewpoint allowed a review of the relations and interactions between human and non-human animals and emphasised the importance of the latter in co-constituting mobility and movement in Bronze Age communities (Braidotti 2013; Crellin and Harris 2021).
+My PhD research explored residential mobility and settlement from the Middle Neolithic (c. 3000 BCE) to the Middle Bronze Age (c. 1500 BCE), focusing on the Bronze Age in Lincolnshire and the Fens. It sought to establish whether there was a change in the mobility of people and their domesticated animals and if so, whether this related to the lack of evidence for permanent settlement during the Middle and Late Neolithic (Whittle 1997) and the establishment of small farming settlements by the time of the Middle Bronze Age (Brück 1999; 2019). Taking a posthumanist, non-anthropocentric viewpoint allowed a review of the relations and interactions between human and non-human animals and emphasised the importance of the latter in co-constituting mobility and movement in Bronze Age communities (Braidotti 2013; Crellin and Harris 2021).
 
 To investigate mobility, stable isotope analyses of faunal remains excavated from two sites in Lincolnshire were compared, one on the Bronze Age fen-edge, the other further inland. This determines the amount of isotopes of elements such as carbon, nitrogen and sulfur that are incorporated into animal tissues and bones from their diet. The results can inform on components of the diet (carbon, nitrogen) and proximity to the sea (sulfur) (Lamb *et al.* 2023). Material for analysis was taken from small samples cut from a bone or from dentine inside a tooth; incremental sampling of the dentine of cattle and sheep teeth could inform on seasonal changes such as the movement to summer saltmarsh grazing on the Fens.
 
@@ -21,6 +21,8 @@ My research integrated zooarchaeology, stable isotope analysis, XRF and database
 Braidotti, R. (2013). *The Posthuman*. Polity Press, Cambridge.
 
 Brück, J. (1999) What's in a settlement? Domestic practice and residential mobility in Early Bronze Age southern England. In: *Making Places in the Prehistoric World: Themes in Settlement Archaeology*. Ed. by J. Brück & M. Goodman. London: UCL Press, pp.52--75.
+
+Brück, J. (2019) *Personifying Prehistory: Relational Ontologies in Bronze Age Britain and Ireland*. Oxford: Oxford University Press.
 
 Crellin, R. J. and O. J. T. Harris (2021) What difference does posthumanism make? *Cambridge Archaeological Journal* 31(3), 469--475. DOI: [10.1017/S0959774321000159](https://doi.org/10.1017/S0959774321000159).
 
