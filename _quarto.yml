@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "David Osborne"
+  title: "Dr David Osborne"
   navbar:
     left:
       - text: Home
         href: index.qmd
+      - research,qmd
+      - publications.qmd
       - about.qmd
 
 format:
