@@ -1,7 +1,3 @@
----
-title: "Dr David Osborne"
----
-
 # ![](Solway-cattle.png)
 
 # PhD research
