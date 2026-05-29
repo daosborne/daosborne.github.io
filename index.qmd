@@ -1,16 +1,16 @@
 ---
-title: "David Osborne"
+title: "Dr David Osborne"
 ---
 
-# ![](IMG_2061.png)
+# ![](Solway-cattle.png)
 
 # PhD research
 
-## Thesis title
+### Thesis
 
-*Moving With the Times: diet and mobility of people and their animals in Neolithic and Bronze Age Lincolnshire and the Fens*
+*Moving With the Times: mobility of people and their animals in Neolithic and Bronze Age Lincolnshire and the Fens*
 
-## Supervisors
+### Supervisors
 
 Professor Hannah O'Regan (University of Nottingham)
 
@@ -18,6 +18,8 @@ Professor Oliver Harris (University of Leicester)
 
 # More details
 
-[Bio](about.qmd)
+[Research](research.qmd)
 
-More details of my research can be found in my [student profile](https://www.midlands4cities.ac.uk/student_profile/david-osborne/)
+[Publications](publications.qmd)
+
+[About](about.qmd)

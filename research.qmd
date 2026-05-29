@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+# ![](IMG_2061.png)
+
+## Abstract
+
+My PhD research explored residential mobility and settlement from the Middle Neolithic (c. 3000 BCE) to the Middle Bronze Age (c. 1500 BCE), focusing on the Bronze Age in Lincolnshire and the Fens. It sought to establish whether there was a change in the mobility of people and their domesticated animals and if so, whether this related to the lack of evidence for permanent settlement during the Middle and Late Neolithic (Whittle 1997) and the establishment of small farming settlements by the time of the Middle Bronze Age (Brück 1999). Taking a posthumanist, non-anthropocentric viewpoint allowed a review of the relations and interactions between human and non-human animals and emphasised the importance of the latter in co-constituting mobility and movement in Bronze Age communities (Braidotti 2013; Crellin and Harris 2021).
+
+To investigate mobility, stable isotope analyses of faunal remains excavated from two sites in Lincolnshire were compared, one on the Bronze Age fen-edge, the other further inland. This determines the amount of isotopes of elements such as carbon, nitrogen and sulfur that are incorporated into animal tissues and bones from their diet. The results can inform on components of the diet (carbon, nitrogen) and proximity to the sea (sulfur) (Lamb *et al.* 2023). Material for analysis was taken from small samples cut from a bone or from dentine inside a tooth; incremental sampling of the dentine of cattle and sheep teeth could inform on seasonal changes such as the movement to summer saltmarsh grazing on the Fens.
+
+A complementary analysis of soil samples taken across Bronze Age ditch features near the fen-edge settlement used X-ray Fluorescence spectrometry (XRF) to examine the chemical composition of the soil, looking for patterns of higher amounts of phosphorus derived from animal dung as evidence of the penning of animals in enclosures and their movement along droveways between the fields.
+
+A by-product of my research was support for Critical Priority 5 'improving access to unpublished data' and Theme PR5, 'realising the full potential of scientific techniques' of Historic England's prehistory research strategy, as well as the sub-theme 'Development of agriculturally-based settlement patterns' in the Research Agenda and Strategy for the East Midlands (English Heritage 2010; Knight *et al.* 2012).
+
+My research integrated zooarchaeology, stable isotope analysis, XRF and database modelling to generate a new understanding of how the human and non-human prehistoric communities of Lincolnshire and the Fens behaved and developed from the Neolithic to the Bronze Age.
+
+## References
+
+Braidotti, R. (2013). *The Posthuman*. Polity Press, Cambridge.
+
+Brück, J. (1999) What's in a settlement? Domestic practice and residential mobility in Early Bronze Age southern England. In: *Making Places in the Prehistoric World: Themes in Settlement Archaeology*. Ed. by J. Brück & M. Goodman. London: UCL Press, pp.52--75.
+
+Crellin, R. J. and O. J. T. Harris (2021) What difference does posthumanism make? *Cambridge Archaeological Journal* 31(3), 469--475. DOI: [10.1017/S0959774321000159](https://doi.org/10.1017/S0959774321000159).
+
+English Heritage (2010) Research Strategy for Prehistory: consultation draft. Technical report. url: <https://historicengland.org.uk/content/docs/research/draft-prehistoric-strategy-pdf/> (visited on 19/08/2019).
+
+Knight, D., B. Vyner & C. Allen, eds. (2012) East Midlands Heritage: an updated research agenda and strategy for the Historic Environment of the East Midlands. Nottingham Archaeological Monographs 6. Nottingham and York: University of Nottingham and York Archaeological Trust. URL: <https://historicengland.org.uk/images-books/publications/east-midlands-heritage/> (visited on 17/03/2019).
+
+Lamb, A. L., C. A Chenery, R. Madgwick and J. A. Evans (2023). Wet feet: developing sulfur isotope provenance methods to identify wetland inhabitants. *Royal Society Open Science* 10, 230391. DOI:[10.1098/rsos.230391](#0)
+
+Whittle, A. (1997) Moving on and moving around: Neolithic settlement mobility. In: Neolithic Landscapes. Ed. by P. Topping. Neolithic Studies Group Seminar Papers 2. Oxford: Oxbow, pp.15--22.

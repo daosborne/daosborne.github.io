@@ -13,9 +13,6 @@ about:
     - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/daosborne.bsky.social
-    - icon: mastodon
-      text: Mastodon
-      href: https://mastodon.scot/@daosborne
     - icon: github
       text: Github
       href: https://github.com/daosborne/
@@ -26,17 +23,82 @@ about:
 
 ## Bio
 
-David is currently a PhD researcher in archaeology in the [Department of Classics & Archaeology](https://www.nottingham.ac.uk/humanities/departments/classics-and-archaeology/) at the University of Nottingham, funded by [AHRC](https://www.ukri.org/councils/ahrc/) via the [Midlands4Cities](https://www.midlands4cities.ac.uk/) Doctoral Training Partnership. He was previously employed as a Senior Systems Development Officer at the University, implementing and supporting Unix and Linux systems, e-mail, web and related technologies.
+David obtained his PhD in archaeology in the [Department of Classics & Archaeology](https://www.nottingham.ac.uk/humanities/departments/classics-and-archaeology/) at the University of Nottingham, funded by [AHRC](https://www.ukri.org/councils/ahrc/) via the [Midlands4Cities](https://www.midlands4cities.ac.uk/) Doctoral Training Partnership. He was previously employed as a Senior Systems Development Officer at the University, implementing and supporting Unix and Linux systems, e-mail, web and related technologies.
 
-Interests include stable isotope analysis, zooarchaeology, British prehistory, archaeological theory, data analysis and visualisation, statistics, (Q)GIS, R, Python and Ruby programming.
+His interests include stable isotope analysis, zooarchaeology, British prehistory, archaeological theory, data analysis and visualisation, statistics, (Q)GIS, R, Python and Ruby programming.
 
 ## Education and qualifications
 
-University of Nottingham \| PhD researcher in Department of Classics & Archaeology \| Sept 2017 to date
+University of Nottingham \| PhD, Department of Classics & Archaeology \| Sept 2017 -- May 2026
 
 University of Nottingham \| MSc in Archaeological Research (with distinction) \| Sept 2011 -- June 2013
 
-University of Nottingham \| BA (Joint honours) in Archaeology and Geography \| 1974 -- 1977
+University of Nottingham \| BA (Joint honours) Archaeology and Geography \| 1974 -- 1977
+
+## Conference presentations
+
+**2013**
+
+*Antlers and isotopes: assessing short-term dietary change from 13C and 15N stable isotope analysis of fallow deer antlers*. Poster presentation, UK Archaeological Sciences Conference, 11--14 April 2013, Cardiff University.\
+<https://www.researchgate.net/publication/265601004_Antlers_and_isotopes_assessing_short-term_dietary_change_from_13C_and_15N_stable_isotope_analysis_of_fallow_deer_antlers>
+
+**2014**
+
+*Tracking the elusive fallow deer: exploring stable isotope evidence for imports during the Iron Age and Roman periods in Britain*. Paper presented at PZAF 2014 (Postgraduate Zooarchaeology Forum), Institute of Archaeology, University College London.
+
+**2018**
+
+*Should I stay or should I go? Mobility and settlement in Neolithic and Bronze Age Britain*. Paper presented at Midlands3Cities Research Festival, Birmingham.
+
+*Should I stay or should I go? Mobility and settlement in Neolithic and Bronze Age Britain*. Paper presented at Link18 multidisciplinary conference, University of Nottingham.
+
+*Exploring mobility in Neolithic and Bronze Age Britain*. Paper presented at 24th annual meeting of the European Association of Archaeologists, University of Barcelona.
+
+*Exploring changes in mobility in Neolithic and Bronze Age Britain*. Paper presented at 5th annual Neolithic and Early Bronze Age Research Students' Symposium, University of Manchester.
+
+**2019**
+
+*Moving on or settling down? Exploring mobility in Neolithic and Bronze Age Britain*. Paper presented at Classics & Archaeology departmental research conference, University of Nottingham.
+
+*Moving with the Times: Diet and mobility of people and their animals in Neolithic and Bronze Age Lincolnshire and the Fens.* Poster presented at East Midlands Historic Environment Research Framework conference, University of Nottingham.
+
+*Where the Wild Things Were: placing wild animals in the British Neolithic.* Paper presented at the 6th annual Neolithic and Early Bronze Age Research Students' Symposium, University of Worcester.
+
+**2021**
+
+*Using the Arches platform for Heritage and Environmental Archaeology data*. Paper presented at Association for Environmental Archaeology Spring conference: Open Science Practices in Environmental Archaeology.
+
+*Using the Arches platform for Heritage and Environmental Archaeology data*. Paper presented at Classics & Archaeology departmental research seminar, University of Nottingham.
+
+**2022**
+
+*Secrets from the soil? Tracking Bronze Age cattle and sheep using X-rays*. Paper presented at Classics & Archaeology departmental research conference, University of Nottingham.
+
+*When* did *the cows come home? Exploring Middle Bronze Age animal husbandry at the fen-edge.* Poster presented at the Bronze Age Forum conference, University of Cambridge, 21--22 November 2022. **Winner of the Prehistoric Society poster prize**.
+
+*When* did *the cows come home? Exploring Middle Bronze Age animal husbandry at the fen-edge*. Paper presented at Classics & Archaeology departmental research workshop, University of Nottingham.
+
+**2023**
+
+*Bronze Age animal mobilities at the fen-edge, Lincolnshire, UK*. Paper presented online to the Animal History Group, 12 April 2023.
+
+*Multi-proxy exploration of Middle Bronze Age animal husbandry at the edge of the Fens, Lincolnshire, England*. Paper presented at the 29th annual meeting of the European Association of Archaeologists, Queen's University, Belfast, 31 August 2023.
+
+*Bronze Age animal mobilities at the fen-edge, Lincolnshire*. Paper presented at the Bronze Age Forum conference, University of Leicester, 11--12 November 2023.
+
+**2024**
+
+*Animal care and welfare in Bronze Age Britain*. Paper given at the 30th annual meeting of the European Association of Archaeologists, La Sapienza University, Rome, 31 August 2024.
+
+## Public Engagement & Impact
+
+**2024**
+
+*Bronze Age farming at the Lincolnshire fen-edge --- people, animals and landscape.* Invited talk given to the Fen-Edge Archaeology Group, Cottenham, Cambridgeshire, 27 September 2024.
+
+## Research grants
+
+*When Did the Cows Come Home?* Grant from the NERC Environmental Isotope Facility, British Geological Survey, for isotope analysis of cattle, sheep and pig remains from sites in Lincolnshire to explore Bronze Age animal husbandry and grazing. Project Principal Investigator: Professor Hannah O'Regan, University of Nottingham; Co-Investigators: Professor Jane Evans & Dr Angela Lamb, British Geological Survey.
 
 ## Most recent employment
 
@@ -46,7 +108,6 @@ University of Nottingham \| Senior Systems Development Officer, 1984 -- 2018
 
 ## Membership of professional associations
 
--   [Prehistoric Society](https://www.prehistoricsociety.org/)
--   [Association for Environmental Archaeology](https://envarch.net/)
--   [European Association of Archaeologists](https://www.e-a-a.org/)
--   [Society of Antiquaries of Newcastle upon Tyne](https://www.newcastle-antiquaries.org.uk/)
+-   [Prehistoric Society](https://www.prehistoricsociety.org/) (from 2011)
+-   [Society of Antiquaries of Newcastle upon Tyne](https://www.newcastle-antiquaries.org.uk/) (from 2022)
+-   [European Association of Archaeologists](https://www.e-a-a.org/), 2018 -- 2025
