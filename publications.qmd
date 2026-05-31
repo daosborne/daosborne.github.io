@@ -10,7 +10,7 @@ title: "Publications"
 
 -   Osborne, D. (2023) *When* did *the cows come home?* British Geological Survey blog. URL: [https://www.bgs.ac.uk/news/when-did-the-cows-come-home/](#0) (accessed 2023-02-23)
 
--   Osborne, D. (2023) When did the cows come home? Exploring Bronze Age animal husbandry with isotopes and X-rays. *PAST: The newsletter of the Prehistoric Society* **103**, 12--13**.** URL: **<https://www.prehistoricsociety.org/publications/past/103>** (accessed 2023-09-14)
+-   Osborne, D. (2023) When did the cows come home? Exploring Bronze Age animal husbandry with isotopes and X-rays. *PAST: The newsletter of the Prehistoric Society* **103**, 12--13**.** URL: [**https://www.prehistoricsociety.org/publications/past/103**](https://www.prehistoricsociety.org/publications/past/103){.uri} (accessed 2023-09-14)
 
 -   Osborne, D. (2023) Book review: *Footmarks: a journey into our restless past* by Jim Leary. *Folk Life: Journal of Ethnological Studies* 61(2), 199-200. DOI: [10.1080/04308778.2023.2251254](https://doi.org/10.1080/04308778.2023.2251254)
 
